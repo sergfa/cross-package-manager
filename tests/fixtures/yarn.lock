@@ -1,0 +1,7 @@
+"@art-ws/config-eslint@^2.0.5":
+  version "2.0.5"
+  resolved "https://registry.npmjs.org/@art-ws/config-eslint/-/config-eslint-2.0.5.tgz"
+
+json-rules-engine-simplified@0.2.2:
+  version "0.2.2"
+  resolved "https://registry.npmjs.org/json-rules-engine-simplified/-/json-rules-engine-simplified-0.2.2.tgz"
